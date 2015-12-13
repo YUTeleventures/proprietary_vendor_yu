@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/yu/lettuce/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/yu/lettuce/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/yu/lettuce/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/yu/lettuce/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/yu/lettuce/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/yu/lettuce/proprietary/lib64/libstlport.so:system/lib64/libstlport.so \
