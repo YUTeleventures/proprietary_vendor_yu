@@ -48,9 +48,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/yu/tomato/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/yu/tomato/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/yu/tomato/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/yu/tomato/proprietary/lib/libstlport.so:system/lib/libstlport.so \
-    vendor/yu/tomato/proprietary/lib64/libmm-qcamera.so:system/lib64/libmm-qcamera.so \
     vendor/yu/tomato/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/yu/tomato/proprietary/lib64/libstlport.so:system/lib64/libstlport.so \
     vendor/yu/tomato/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
